@@ -1,3 +1,5 @@
+#Editado el documento
+
 # ------------------------------------------------------
 # Convierte un número binario a hexadecimal.
 # El número binario es un string e.g. "101"
